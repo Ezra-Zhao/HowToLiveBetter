@@ -15,6 +15,8 @@
 [![原始文献](https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E6%96%87%E7%8C%AE-1604%20%E6%9D%A1%E9%93%BE%E6%8E%A5-565a5f?style=flat-square)](docs/核实记录/)
 [![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-565a5f?style=flat-square)](#许可)
 
+支持与更多：[GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — 我在用的模板与工作簿](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ### [打开在线检索页](https://eternity4719.github.io/HowToLiveBetter/) · [让 AI 照书回答（skill）](skills/life-decision-guide/README.md)
 
 AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。
